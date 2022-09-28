@@ -34,25 +34,22 @@ You can click the Preview link to take a look at your changes.
 </p>
 </details>
 
-```topojson
+```geojson
 {
-  "type": "Topology",
-  "transform": {
-    "scale": [0.0005000500050005, 0.00010001000100010001],
-    "translate": [100, 0]
-  },
-  "objects": {
-    "example": {
-      "type": "GeometryCollection",
-      "geometries": [
-        {
-          "type": "Point",
-          "properties": {"prop0": "value0"},
-          "coordinates": [13.7428155965759, 100.5861193944886]
-        }
-      ]
+  "type": "FeatureCollection",
+  "features": [
+    {
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          100.5861193944886,
+          13.7428155965759
+        ]
+      },
+      "type": "Feature",
+      "properties": {}
     }
-  }
+  ]
 }
 ```
 
