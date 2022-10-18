@@ -59,7 +59,7 @@
 ###
 
 <div align="left">
-  <img src="https://github-read-medium-git-main.pahlevikun.vercel.app/latest?limit=4&username=iounnirach15&theme=vue-dark" alt="Layout with last medium posts"  />
+  <img src="https://github-read-medium-git-main.pahlevikun.vercel.app/latest?limit=4&username=iounnirach15&theme=graywhite" alt="Layout with last medium posts"  />
 </div>
 
 ###
@@ -82,6 +82,3 @@
     <img src="https://img.shields.io/static/v1?message=Medium&logo=medium&label=&color=12100E&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="medium logo"  />
   </a>
 </div>
-
-###
-Profile Readme Generator
