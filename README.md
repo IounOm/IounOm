@@ -23,7 +23,7 @@
 
 [![An image of @iounom's Holopin badges, which is a link to view their full Holopin profile](https://holopin.me/iounom)](https://holopin.io/@iounom)
 
-<h3 align="left">- Experience</h3>
+<h3 align="left">Experience</h3>
 
 ###
 
@@ -56,7 +56,7 @@
 
 ###
 
-<h3 align="left">- Story Telling</h3>
+<h3 align="left">Story Telling</h3>
 
 ###
 
