@@ -16,11 +16,6 @@
   </a>
 </p>
 
-<!-- Quote -->
-<p align="center">
-  <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=tokyonight&quote=People%20don%27t%20care%20about%20what%20you%20do%2C%20they%20care%20about%20what%20you%20build&author=Mark%20Zuckerberg" alt="Quote"/>
-</p>
-
 ---
 
 <!-- About Me -->
@@ -62,40 +57,45 @@ hobbies:
   Tech Stack
 </h2>
 
-<table>
-<tr>
-<td valign="top" width="33%">
-
-### Frontend
-<p align="center">
-  <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=react,nextjs,flutter,typescript,javascript,html,css,tailwind,materialui&perline=3" />
-  </a>
+<h3>Languages</h3>
+<p>
+  <img src="https://img.shields.io/badge/Dart-0175C2?style=for-the-badge&logo=dart&logoColor=white"/>
+  <img src="https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white"/>
+  <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black"/>
+  <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white"/>
+  <img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white"/>
 </p>
 
-</td>
-<td valign="top" width="33%">
-
-### Backend
-<p align="center">
-  <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=nodejs,firebase,mongodb,mysql,express,graphql&perline=3" />
-  </a>
+<h3>Frameworks & Libraries</h3>
+<p>
+  <img src="https://img.shields.io/badge/Flutter-02569B?style=for-the-badge&logo=flutter&logoColor=white"/>
+  <img src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB"/>
+  <img src="https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=next.js&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=node.js&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Express-000000?style=for-the-badge&logo=express&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Material_UI-0081CB?style=for-the-badge&logo=mui&logoColor=white"/>
 </p>
 
-</td>
-<td valign="top" width="33%">
-
-### Tools & Design
-<p align="center">
-  <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=git,github,vscode,figma,xd,photoshop,illustrator,arduino&perline=3" />
-  </a>
+<h3>Database & Cloud</h3>
+<p>
+  <img src="https://img.shields.io/badge/Firebase-FFCA28?style=for-the-badge&logo=firebase&logoColor=black"/>
+  <img src="https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=white"/>
+  <img src="https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white"/>
+  <img src="https://img.shields.io/badge/GraphQL-E10098?style=for-the-badge&logo=graphql&logoColor=white"/>
 </p>
 
-</td>
-</tr>
-</table>
+<h3>Tools & Design</h3>
+<p>
+  <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white"/>
+  <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white"/>
+  <img src="https://img.shields.io/badge/VS_Code-007ACC?style=for-the-badge&logo=visual-studio-code&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Figma-F24E1E?style=for-the-badge&logo=figma&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Adobe_XD-FF61F6?style=for-the-badge&logo=adobe-xd&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Photoshop-31A8FF?style=for-the-badge&logo=adobe-photoshop&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Illustrator-FF9A00?style=for-the-badge&logo=adobe-illustrator&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Arduino-00979D?style=for-the-badge&logo=arduino&logoColor=white"/>
+</p>
 
 ---
 
@@ -105,25 +105,39 @@ hobbies:
   What I Do
 </h2>
 
-<div align="center">
+<p align="center">
+  <img src="https://img.shields.io/badge/📱_Mobile_Development-667eea?style=for-the-badge"/>
+</p>
+<p align="center">
+  <code>Cross-platform apps with Flutter</code> · <code>iOS & Android deployment</code> · <code>State management & animations</code>
+</p>
 
-| | |
-|:---:|:---:|
-| <img src="https://img.icons8.com/color/96/000000/flutter.png" width="60"/> | <img src="https://img.icons8.com/color/96/000000/react-native.png" width="60"/> |
-| **Mobile Development** | **Web Development** |
-| Cross-platform apps with Flutter | Full-stack with React & Next.js |
-| iOS & Android deployment | RESTful APIs & GraphQL |
-| State management & animations | Responsive & accessible UI |
+<br/>
 
-| | |
-|:---:|:---:|
-| <img src="https://img.icons8.com/color/96/000000/firebase.png" width="60"/> | <img src="https://img.icons8.com/color/96/000000/design.png" width="60"/> |
-| **Backend & Cloud** | **UI/UX Design** |
-| Firebase & Node.js services | Figma & Adobe Creative Suite |
-| Real-time databases | User-centered design |
-| Authentication & storage | Prototyping & wireframing |
+<p align="center">
+  <img src="https://img.shields.io/badge/🌐_Web_Development-764ba2?style=for-the-badge"/>
+</p>
+<p align="center">
+  <code>Full-stack with React & Next.js</code> · <code>RESTful APIs & GraphQL</code> · <code>Responsive & accessible UI</code>
+</p>
 
-</div>
+<br/>
+
+<p align="center">
+  <img src="https://img.shields.io/badge/☁️_Backend_&_Cloud-667eea?style=for-the-badge"/>
+</p>
+<p align="center">
+  <code>Firebase & Node.js services</code> · <code>Real-time databases</code> · <code>Authentication & storage</code>
+</p>
+
+<br/>
+
+<p align="center">
+  <img src="https://img.shields.io/badge/🎨_UI/UX_Design-764ba2?style=for-the-badge"/>
+</p>
+<p align="center">
+  <code>Figma & Adobe Creative Suite</code> · <code>User-centered design</code> · <code>Prototyping & wireframing</code>
+</p>
 
 ---
 
@@ -134,12 +148,7 @@ hobbies:
 </h2>
 
 <p align="center">
-  <img width="49%" src="https://github-readme-stats.vercel.app/api?username=IounOm&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" alt="GitHub Stats"/>
-  <img width="49%" src="https://github-readme-streak-stats.herokuapp.com/?user=IounOm&theme=tokyonight&hide_border=true" alt="Streak Stats"/>
-</p>
-
-<p align="center">
-  <img width="40%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=IounOm&layout=compact&theme=tokyonight&hide_border=true&langs_count=8" alt="Top Languages"/>
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=IounOm&theme=tokyonight&hide_border=true" alt="Streak Stats"/>
 </p>
 
 <!-- Activity Graph -->
@@ -162,23 +171,30 @@ hobbies:
   Featured Work
 </h2>
 
-<div align="center">
-  <a href="https://github.com/Foxbith">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=Foxbith&repo=demo-forkit-bkk-2024&theme=tokyonight&hide_border=true" alt="Demo Forkit"/>
-  </a>
-</div>
+<p align="center">
+  <img src="https://img.shields.io/badge/Bumpcall-Social_Mobile_App-02569B?style=for-the-badge&logo=flutter&logoColor=white"/>
+</p>
+<p align="center">
+  Social mobile application for iOS & Android built with Flutter & Firebase
+</p>
 
 <br/>
 
-<div align="center">
+<p align="center">
+  <img src="https://img.shields.io/badge/Web_Applications-Full_Stack-000000?style=for-the-badge&logo=next.js&logoColor=white"/>
+</p>
+<p align="center">
+  Full-stack web applications with React, Next.js, and Node.js
+</p>
 
-| Project Type | Description | Tech |
-|:---:|:---|:---:|
-| **Bumpcall** | Social mobile application for iOS & Android | ![Flutter](https://img.shields.io/badge/Flutter-02569B?style=flat&logo=flutter&logoColor=white) ![Firebase](https://img.shields.io/badge/Firebase-FFCA28?style=flat&logo=firebase&logoColor=black) |
-| **Web Apps** | Full-stack web applications | ![React](https://img.shields.io/badge/React-20232A?style=flat&logo=react&logoColor=61DAFB) ![Next.js](https://img.shields.io/badge/Next.js-000000?style=flat&logo=next.js&logoColor=white) |
-| **IoT Solutions** | Hardware integration projects | ![Arduino](https://img.shields.io/badge/Arduino-00979D?style=flat&logo=arduino&logoColor=white) ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat&logo=javascript&logoColor=black) |
+<br/>
 
-</div>
+<p align="center">
+  <img src="https://img.shields.io/badge/IoT_Solutions-Hardware_Integration-00979D?style=for-the-badge&logo=arduino&logoColor=white"/>
+</p>
+<p align="center">
+  Hardware integration projects with Arduino and embedded systems
+</p>
 
 ---
 
@@ -208,11 +224,10 @@ hobbies:
 
 ---
 
-<!-- Support -->
 <p align="center">
-  <a href="https://www.buymeacoffee.com/iounom">
-    <img src="https://img.shields.io/badge/Buy%20Me%20a%20Coffee-FFDD00?style=for-the-badge&logo=buy-me-a-coffee&logoColor=black" alt="Buy Me A Coffee"/>
-  </a>
+  <em>"People don't care about what you do, they care about what you build"</em>
+  <br/>
+  — Mark Zuckerberg
 </p>
 
 <!-- Footer -->
